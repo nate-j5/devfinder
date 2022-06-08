@@ -132,7 +132,7 @@ function App() {
           </div>
         ) : (
           <div className="container-card-footer">
-            <p> Search for developers</p>
+            <p> Search for GitHub developers</p>
           </div>
         )}
       </div>
